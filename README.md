@@ -24,8 +24,8 @@ $ yarn add runfi-pages
 
 ```javascript
 const runfiPages = require('runfi-pages')
-const result = runfiPages('zce')
-// result => 'zce@zce.me'
+const result = runfiPages('runfi')
+// result => '3044544658@qq.me'
 ```
 
 ## API
@@ -45,7 +45,7 @@ const result = runfiPages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'zongyao.life'`
 
 ## Contributing
 

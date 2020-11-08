@@ -11,11 +11,13 @@
     "url": "https://github.com/runfi/runfi-pages/issues"
   },
   "license": "MIT",
-  "author": "runfii <lancelotdangao@163.com>",
+  "author": "runfii <3044544658@qq.com>",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "main": "lib/index.js",
+  "bin": "bin/runfi-pages.js",
   "directories": {
     "lib": "lib"
   },
